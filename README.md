@@ -31,7 +31,7 @@ Integrity: Committed to writing clean, maintainable code (Following Clean Code p
 
 ## > 📫 Connect with me:
 
-LinkedIn: linkedin.com/in/sanchezalbertluis/
+LinkedIn: [linkedin.com/in/sanchezalbertluis/](https://www.linkedin.com/in/sanchezalbertluis/)
 
 Location: Veracruz, MX.
 
